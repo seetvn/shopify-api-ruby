@@ -2,5 +2,5 @@
 # frozen_string_literal: true
 
 module ShopifyAPI
-  VERSION = "13.1.0"
+  VERSION = "7.2.8"
 end
