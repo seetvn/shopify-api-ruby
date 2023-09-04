@@ -44,7 +44,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency("securerandom")
   s.add_runtime_dependency("sorbet-runtime")
   #s.add_runtime_dependency("zeitwerk", "~> 2.5")
-  s.add_runtime_dependency("zeitwerk", ">= 2.5", "< 2.7")
+  #s.add_runtime_dependency("zeitwerk", ">= 2.5", "< 2.7")
 
 
   s.add_development_dependency("pry-byebug")
